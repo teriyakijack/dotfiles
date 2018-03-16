@@ -57,20 +57,6 @@ brew install tree
 
 brew install httpd
 brew install mysql
-brew install php56
-brew install php56-amqp
-brew install php56-apcu
-brew install php56-igbinary
-brew install php56-mcrypt
-brew install php56-opcache
-brew install php56-redis
-brew install php56-xdebug
-brew install php72
-brew install php72-apcu
-brew install php72-igbinary
-brew install php72-opcache
-brew install php72-redis
-brew install php72-xdebug
 brew install composer
 brew install nvm
 
