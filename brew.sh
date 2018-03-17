@@ -57,6 +57,7 @@ brew install tree
 
 brew install httpd
 brew install mysql
+brew install phpbrew
 brew install composer
 brew install nvm
 
