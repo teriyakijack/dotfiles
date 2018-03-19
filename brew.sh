@@ -41,7 +41,7 @@ brew install vim --with-override-system-vi
 brew install grep
 brew install openssh
 brew install screen
-brew install homebrew/php/php56 --with-gmp
+#brew install homebrew/php/php56 --with-gmp
 
 # Install font tools.
 brew tap bramstein/webfonttools
@@ -58,7 +58,6 @@ brew install tree
 brew install httpd
 brew install mysql
 brew install phpbrew
-brew install composer
 brew install nvm
 
 # Remove outdated versions from the cellar.
